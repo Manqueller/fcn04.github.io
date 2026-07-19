@@ -91,6 +91,11 @@ publication_category:
   conferences:
     title: 'Conference Papers'
 
+# Saison Category - The following the list of saison categories and their headings
+saison_category:
+  saisons:
+    title: 'Saisons'
+
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
 breadcrumbs              : false # true, false (default)
@@ -282,6 +287,15 @@ defaults:
       author_profile: true
       share: true
       comment: true
+  # _saisons
+  - scope:
+      path: ""
+      type: saisons
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _talks
   - scope:
       path: ""
