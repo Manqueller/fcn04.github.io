@@ -23,7 +23,7 @@ repository               : "Manqueller/fcn04.github.io"
 author:
   # Biographic information
   avatar           : "fcn720.png"
-  name             : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
   location         : "Earth"
@@ -32,11 +32,11 @@ author:
   email            : "none@example.org" 
 
   # Academic websites
-  academia         : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
-  impactstory      : # URL
+  impactstory      : "https://manqueller.github.io/fcn04.github.io/publication/2009-10-01-paper-title-number-1"
   orcid            : "https://orcid.org/yourorcidurl"
   semantic         : # URL
   ssrn             : # URL
