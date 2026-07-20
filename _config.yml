@@ -7,12 +7,10 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "de-DE"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Die FCN Videothek"
-title_separator          : "-"
-name                     : &name "Kette"
-description              : &description "Die FCN-Videothek - von Fans, für Fans"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : "Sammelstelle für alles was in den Jahren so angefallen ist."
 url                      : https://manqueller.github.io/fcn04.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Manqueller/fcn04.github.io"
