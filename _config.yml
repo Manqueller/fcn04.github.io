@@ -23,24 +23,18 @@ author:
   name             : #"von Fans, für Fans"
   bio              : #"Eine Sammelstelle für alles, was in den Jahren so angefallen ist."
   location         : #"Ligaplatz"
-  email            : "fcn04tv@outlook.de"
 
   # Repositories and software development
   github           : #"Manqueller"
 
-  # Social media
-  bluesky          : # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  instagram        : "kamerakindkette"
-  mastodon         : # URL
-  youtube          : "fcneubrandenburg"
-
   # Saisons
   s2026_27         : "2026-07-17-Saison_2026-27"
   s2025_26         : "2026-06-13-Saison_2025-26"
+
+  # Links
+  youtube          : "fcneubrandenburg"
+  instagram        : "kamerakindkette"
+  email            : "fcn04tv@outlook.de"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
