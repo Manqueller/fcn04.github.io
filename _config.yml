@@ -38,6 +38,10 @@ author:
   mastodon         : # URL
   youtube          : "fcneubrandenburg"
 
+  # Saisons
+  s2026_27         : "https://manqueller.github.io/fcn04.github.io/saison/2026-07-17-Saison_2026-27"
+  s2025_26         : "https://manqueller.github.io/fcn04.github.io/saison/2026-06-13-Saison_2025-26"
+
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
