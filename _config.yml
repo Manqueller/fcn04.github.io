@@ -19,14 +19,14 @@ repository               : "Manqueller/fcn04.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "fcn720.png"
-  name             : "von Fans, für Fans"
-  bio              : "Eine Sammelstelle für alles, was in den Jahren so angefallen ist."
-  location         : "Ligaplatz"
+  avatar           : #"fcn720.png"
+  name             : #"von Fans, für Fans"
+  bio              : #"Eine Sammelstelle für alles, was in den Jahren so angefallen ist."
+  location         : #"Ligaplatz"
   email            : "fcn04tv@outlook.de"
 
   # Repositories and software development
-  github           : "Manqueller"
+  github           : #"Manqueller"
 
   # Social media
   bluesky          : # Replace this with you Bluesky username
