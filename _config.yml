@@ -20,7 +20,7 @@ repository               : "Manqueller/fcn04.github.io"
 author:
   # Biographic information
   avatar           : "fcn720.png"
-  name             : "Von Fans, für Fans"
+  name             : "von Fans, für Fans"
   bio              : "Eine Sammelstelle für alles, was in den Jahren so angefallen ist."
   location         : "Ligaplatz"
   email            : "fcn04tv@outlook.de"
@@ -39,8 +39,8 @@ author:
   youtube          : "fcneubrandenburg"
 
   # Saisons
-  s2026_27         : "https://manqueller.github.io/fcn04.github.io/saison/2026-07-17-Saison_2026-27"
-  s2025_26         : "https://manqueller.github.io/fcn04.github.io/saison/2026-06-13-Saison_2025-26"
+  s2026_27         : "2026-07-17-Saison_2026-27"
+  s2025_26         : "2026-06-13-Saison_2025-26"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
