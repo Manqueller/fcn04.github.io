@@ -10,7 +10,7 @@
 locale                   : "de-DE"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Die FCN Videothek"
-url                      : https://manqueller.github.io/fcn04.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : "https://manqueller.github.io/fcn04.github.io" # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Manqueller/fcn04.github.io"
 
@@ -55,7 +55,7 @@ saison_category:
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
-breadcrumbs              : false # true, false (default)
+breadcrumbs              : "false" # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
