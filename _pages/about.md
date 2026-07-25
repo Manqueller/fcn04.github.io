@@ -1,12 +1,49 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Sammlung von Videos der Spiele des 1.FC Neubrandenburg 04"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+Sinn:
+Den ganzen Youtube Kram mal übersictlich sammeln/sowas wie ne Chronik anfangen
 
+Roadmap:
+- Saisons 1.Männer im Menü links
+- Andere Teams im Menü oben (lange Liste) II./III./U19/U17/Frauen/Andere Teams
+- alle 60s Videos und andere Videoprojekte, die so angefallen sind
+- Soundboard mit dummen Sprüchen
+- Design anpassen
+- rudimentäre Suchfunktion
+- Hall of Fame, beste Spiele
+- Spielberichte/andere Links ergänzen
+- Bildergalerien flickr/Facebook usw. verlinken?
+- Vimeo Videos einbinden?
+- Unterseiten für jedes Spiel > Tags möglich, automatisch generieren basierend auf Datum+Partie?
+- Logo mit Spielbericht an jeden Eintrag
+- oben Youtbe Playlist verlinken
+- Inhaltsverzeichnis > scrollen
+
+Was kommt NICHT?
+- keine Tags > Klick auf einen Verein und alle Spiele sehen
+- keine sortierbare/klickbare Tabellen
+- kein großer Schnickschnack auf der Seite
+- kein Editor, um Online direkt Sachen anzupassen
+
+wenn sich in Zukunft ein richtiger Entwickler mit Ressourcen findet gerne
+
+Die ganze Seite basiert jetzt auf rudimentären Daten (Markdown), selbst farbige Tabellenzeilen sind da schon nicht vorgesehen.
+Das lässt sich alles in ne Datenbank packen und erweitern, aber dafür brauchts ne andere (kostenpflichtige) Plattform
+und jemanden mit Zeit/Ahnung.
+
+Was könnt ihr machen?
+- Spiele für die Hall of Fame empfehlen
+- Links zu anderen Videos schicken (Radi, Nordmagazin zum Hansaspiel usw.)
+- für das Soundboard Zeug suchen (Datum+Spiel+Wann im Video) > als, deine Mutter is Hand, die rutschen usw.
+
+Es folgt der ursprüngliche Text, weil da schöne Markdownbeispiele drinstehen und ich mir das ganze Zeug erst so nach und nach aneigne
+--------------
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
